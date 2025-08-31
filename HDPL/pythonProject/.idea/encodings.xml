@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/datasets_zhongshanyi/data_0.1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/datasets_zhongshanyi/data_0.1_0.2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/datasets_zhongshanyi/data_0.2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/datasets_zhongshanyi/data_0.2/modmis_field_1_test" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/modal_1/patient_1.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/modal_1/patient_10002447.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/modal_1/patient_10003524.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/modal_1/patient_10004948.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/modal_1/patient_124.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/run.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vilt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vilt/config.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vilt/datamodules" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/vilt/datasets" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/vilt_module_prompts.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
